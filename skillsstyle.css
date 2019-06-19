@@ -1,0 +1,84 @@
+#heading{
+	color : black;
+	font-size:40;
+   font-weight: bold;
+
+}
+
+h1.Hi{
+		color : black;
+		font-size:20;
+}
+
+h2.Comp{
+	color:black;
+	font-size:30;
+}
+h2.KJ{
+	color:black;
+	font-size:30;
+}
+
+h3.Navigation{
+	
+	text-align:right;
+	color:red;
+}
+
+
+body {
+	
+  background-image: url("yellow.jpg");
+   font-family: "Courier";
+   font-weight: bold;
+	
+}
+
+
+#container{
+	
+	margin-left: auto;
+	margin-right:auto;
+	width:800px;
+	float:center;
+	
+}
+
+#content{
+	padding: 10px;
+	
+}
+
+#nav{
+	width :180px;
+	float:right;
+	text-align:center;
+	margin-top:1px;
+	
+	
+}
+
+#main{
+	
+	   font-weight: bold;
+	   color:black;
+	   font-size:20;
+	   float:left;
+	   width:600px;
+	     background-image: url("yellow.jpg");
+
+
+}
+#footer{
+	clear:both;
+	text-align:center ;
+}
+
+
+
+A{
+	text-decoration:none;
+	font-size:10;
+	color:orange;
+}
+
